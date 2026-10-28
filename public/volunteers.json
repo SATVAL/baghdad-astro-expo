@@ -1,0 +1,525 @@
+[
+  {
+    "name": "علي قيصر رزاق",
+    "team": "الضيافة",
+    "position": "قائد فريق الضيافة",
+    "photo": "/manus-storage/volunteer-004_a350db02.jpg",
+    "photoRatio": 0.9641
+  },
+  {
+    "name": "صلاح الدين عامر",
+    "team": "الإدارة",
+    "position": "الإدارة",
+    "photo": "/manus-storage/volunteer-059_f96d6d0c.jpg",
+    "photoRatio": 0.9693,
+    "leadershipSection": "administration",
+    "leadershipOrder": 1
+  },
+  {
+    "name": "مريم بهجت",
+    "team": "المؤسسون",
+    "position": "الشريكة المؤسسة",
+    "photo": "/manus-storage/volunteer-060_344dd902.jpg",
+    "photoRatio": 1.0249,
+    "leadershipSection": "founders",
+    "leadershipOrder": 2
+  },
+  {
+    "name": "علي سرحان عبود",
+    "team": "المؤسسون",
+    "position": "المؤسس",
+    "photo": "/manus-storage/volunteer-062_38b83bed.jpg",
+    "photoRatio": 1.0333,
+    "leadershipSection": "founders",
+    "leadershipOrder": 1
+  },
+  {
+    "name": "نور الحسين",
+    "team": "الإدارة",
+    "position": "الإدارة",
+    "photo": "/manus-storage/volunteer-009_1322b6c3.jpg",
+    "photoRatio": 1.0515,
+    "leadershipSection": "administration",
+    "leadershipOrder": 3
+  },
+  {
+    "name": "احمد اشرف احمد",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-012_26241180.jpg",
+    "photoRatio": 1.0167
+  },
+  {
+    "name": "بتول سالم صبار",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-020_8b109457.jpg",
+    "photoRatio": 1.042
+  },
+  {
+    "name": "نور الهدى احمد نجم",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-022_f6d36c68.jpg",
+    "photoRatio": 1.1094
+  },
+  {
+    "name": "مصطفى حسين عدنان",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-027_df3493ff.jpg",
+    "photoRatio": 0.8986
+  },
+  {
+    "name": "Noor abd al wehab",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-030_54269437.jpg",
+    "photoRatio": 0.9187
+  },
+  {
+    "name": "غفران صلاح الدين عبد العزيز",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-031_0f984be0.jpg",
+    "photoRatio": 1.0417
+  },
+  {
+    "name": "مسلم عقيل شويع",
+    "team": "العمليات",
+    "position": "متطوع",
+    "photo": "/manus-storage/portrait-06_c5643b11.jpg",
+    "photoRatio": 0.76,
+    "photoPosition": "50% 48%"
+  },
+  {
+    "name": "اوس حامد هاشم",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-038_fcecbed4.jpg",
+    "photoRatio": 0.7812
+  },
+  {
+    "name": "حميد رائد حميد",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-040_7e76dcac.jpg",
+    "photoRatio": 0.7812
+  },
+  {
+    "name": "صفا سلام شايع",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-043_0f536117.jpg",
+    "photoRatio": 0.6944
+  },
+  {
+    "name": "محمد بشار شاكر",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-045_727b0c5f.jpg",
+    "photoRatio": 0.809
+  },
+  {
+    "name": "YOUSIF AHMED HASHIM",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-01_7b6b65e4.jpg",
+    "photoRatio": 0.82,
+    "photoPosition": "50% 24%"
+  },
+  {
+    "name": "حسن علي يحيى",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-008_9acf6f85.jpg",
+    "photoRatio": 0.9266
+  },
+  {
+    "name": "Ruqayah Baqer Jaafar رقيه باقر جعفر",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-013_bb1c4c00.jpg",
+    "photoRatio": 0.7381
+  },
+  {
+    "name": "مريم محمد يحيى",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-014_d99348b3.jpg",
+    "photoRatio": 0.7477
+  },
+  {
+    "name": "غيد ماجد",
+    "team": "الإدارة",
+    "position": "الإدارة",
+    "photo": "/manus-storage/ghaed-maged-second_9ee94446.jpg",
+    "photoRatio": 0.75,
+    "leadershipSection": "administration",
+    "leadershipOrder": 2
+  },
+  {
+    "name": "رقيه خالد عبداللطيف",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-05_dd60e82a.jpg",
+    "photoRatio": 0.82,
+    "photoPosition": "50% 25%"
+  },
+  {
+    "name": "دانية احمد طلال",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-08_79189bb4.jpg",
+    "photoRatio": 0.86,
+    "photoPosition": "50% 24%"
+  },
+  {
+    "name": "محمد احمد نجم",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-050_a69a3484.jpg",
+    "photoRatio": 0.7071
+  },
+  {
+    "name": "بشير محمد عباس",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-053_317e7e22.jpg",
+    "photoRatio": 0.5933
+  },
+  {
+    "name": "Qamar Al-Din Arkan Al-Sa’aby",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-055_573bae2d.jpg",
+    "photoRatio": 0.6795
+  },
+  {
+    "name": "محمد وليد علي ثابت",
+    "team": "الفريق التقني",
+    "position": "القائد العام للفريق التقني",
+    "photo": "/manus-storage/volunteer-016_711d4210.jpg",
+    "photoRatio": 0.6798
+  },
+  {
+    "name": "عبدالله علاء محمد",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-006_502fce4d.jpg",
+    "photoRatio": 1.007
+  },
+  {
+    "name": "قبس محمد خليل",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-010_0947a996.jpg",
+    "photoRatio": 0.8032
+  },
+  {
+    "name": "غدير جليل محمد علي",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-017_3a9650d4.jpg",
+    "photoRatio": 0.7778
+  },
+  {
+    "name": "رغد ضياء حكمت",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-039_f5f3d1cf.jpg",
+    "photoRatio": 0.9198
+  },
+  {
+    "name": "ميديا بشار شامل",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-056_d277363d.jpg",
+    "photoRatio": 1.042
+  },
+  {
+    "name": "Amal Qasim Hasan",
+    "team": "الإعلام",
+    "position": "القائد العام الثاني للإعلام",
+    "photo": "/manus-storage/volunteer-011_8160aca5.jpg",
+    "photoRatio": 0.851
+  },
+  {
+    "name": "علي انيس مقداد",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-001_21f4d05c.jpg",
+    "photoRatio": 0.75
+  },
+  {
+    "name": "احمد محمود شاكر",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-002_27952587.jpg",
+    "photoRatio": 0.7812
+  },
+  {
+    "name": "لانا اياد صادق",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-015_1c9459f1.jpg",
+    "photoRatio": 0.7778
+  },
+  {
+    "name": "علي ابراهيم كريم",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-021_0d2c4a84.jpg",
+    "photoRatio": 0.6636
+  },
+  {
+    "name": "السجاد قحطان عبدالله",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-023_7eab6d6d.jpg",
+    "photoRatio": 0.8429
+  },
+  {
+    "name": "عبدالله حسين نصر حسين الضباعي",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-042_6e0e2686.jpg",
+    "photoRatio": 0.8775
+  },
+  {
+    "name": "عبدالله سعد غازي",
+    "team": "الإعلام",
+    "position": "صانع محتوى",
+    "photo": "/manus-storage/volunteer-047_0cbd687e.jpg",
+    "photoRatio": 0.6864
+  },
+  {
+    "name": "محمد حيدر عوده",
+    "team": "الإعلام",
+    "position": "تصوير",
+    "photo": "/manus-storage/volunteer-052_e228fc47.jpg",
+    "photoRatio": 0.9196
+  },
+  {
+    "name": "عبدالله عدي فاضل",
+    "team": "الإعلام",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-061_3ce771de.jpg",
+    "photoRatio": 0.9609
+  },
+  {
+    "name": "سرى حاتم كريم",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-04_89cf2ba7.jpg",
+    "photoRatio": 0.78,
+    "photoPosition": "50% 18%"
+  },
+  {
+    "name": "علي مطلك بريسم",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-007_00c70520.jpg",
+    "photoRatio": 1.0416
+  },
+  {
+    "name": "بنت الهدى حاتم كريم",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-02_3c28f4e1.jpg",
+    "photoRatio": 0.78,
+    "photoPosition": "50% 26%"
+  },
+  {
+    "name": "جنان صلاح الدين عبد العزيز",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-032_75022116.jpg",
+    "photoRatio": 0.7847
+  },
+  {
+    "name": "زيد احمد عمار",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-034_d96053d6.jpg",
+    "photoRatio": 0.8098
+  },
+  {
+    "name": "عبدالله بهجت محمود",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-037_eee51e71.jpg",
+    "photoRatio": 1.1429
+  },
+  {
+    "name": "ابراهيم معمر هادي",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-07_be2da4a5.jpg",
+    "photoRatio": 0.8,
+    "photoPosition": "50% 17%"
+  },
+  {
+    "name": "بارق عقيل جاسم",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-044_0ca86232.jpg",
+    "photoRatio": 0.8333
+  },
+  {
+    "name": "سامر منذر محمد",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-046_9782aa6c.jpg",
+    "photoRatio": 0.6799
+  },
+  {
+    "name": "كوثر رحيم تعبان",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-049_4d9e8166.jpg",
+    "photoRatio": 0.7815
+  },
+  {
+    "name": "حيدر محمد عباس",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-051_10208c90.jpg",
+    "photoRatio": 1.042
+  },
+  {
+    "name": "سجى ابراهيم حسن",
+    "team": "تنظيم الجمهور",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-054_09a7c396.jpg",
+    "photoRatio": 0.6803
+  },
+  {
+    "name": "صفا حسين محمود",
+    "team": "الفريق التقني",
+    "position": "السكربت وتنظيم الجمهور",
+    "photo": "/manus-storage/volunteer-058_6d2df44d.jpg",
+    "photoRatio": 0.8032
+  },
+  {
+    "name": "علي محمد عباس",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-003_f1865858.jpg",
+    "photoRatio": 0.7812
+  },
+  {
+    "name": "ياسين خالد فاضل",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-03_a6f6ad34.jpg",
+    "photoRatio": 0.74,
+    "photoPosition": "50% 16%"
+  },
+  {
+    "name": "سيف فاضل كاظم",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-025_e1dd587a.jpg",
+    "photoRatio": 1.0
+  },
+  {
+    "name": "ذوالفقار عباس سعيد",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-026_a44896b5.jpg",
+    "photoRatio": 0.9208
+  },
+  {
+    "name": "جعفر علي بهجت",
+    "team": "الضيافة",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-029_bc2d7215.jpg",
+    "photoRatio": 1.0423
+  },
+  {
+    "name": "شيرين صباح احمد",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-028_23115220.jpg",
+    "photoRatio": 0.9374
+  },
+  {
+    "name": "محمد تقي حسين كامل",
+    "team": "العمليات",
+    "position": "القائد العام لفريق العمليات",
+    "photo": "/manus-storage/volunteer-057_0aae705e.jpg",
+    "photoRatio": 0.8104
+  },
+  {
+    "name": "محمد رافع عبدالغني",
+    "team": "الفريق التنظيمي",
+    "position": "عضو",
+    "photo": "/manus-storage/volunteer-063_741818e7.jpg",
+    "photoRatio": 0.7858
+  },
+  {
+    "name": "Ruqayah Baqer Jaafar رقية باقر جعفر",
+    "team": "الشراكات",
+    "position": "القائد العام لفريق الشراكات",
+    "photo": "/manus-storage/portrait-09_0ba6b69f.jpg",
+    "photoRatio": 0.82,
+    "photoPosition": "50% 22%"
+  },
+  {
+    "name": "مصطفى محمد حسين",
+    "team": "الفريق التقني",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-10_3e2203cd.jpg",
+    "photoRatio": 0.98,
+    "photoPosition": "50% 23%"
+  },
+  {
+    "name": "Mustafa Ahmed Katea",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-11_e04404b0.jpg",
+    "photoRatio": 0.78,
+    "photoPosition": "50% 20%"
+  },
+  {
+    "name": "إيلاف محمد حامد",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-12_fd55b170.jpg",
+    "photoRatio": 0.73,
+    "photoPosition": "50% 22%"
+  },
+  {
+    "name": "لارا اياد هادي",
+    "team": "الشراكات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-13_b981e9ca.jpg",
+    "photoRatio": 0.72,
+    "photoPosition": "50% 20%"
+  },
+  {
+    "name": "عبدالله ظافر سعدون",
+    "team": "الفريق التقني",
+    "position": "عضو دعم تقني",
+    "photo": "/manus-storage/portrait-14_5d0cdd94.jpg",
+    "photoRatio": 0.75,
+    "photoPosition": "50% 16%"
+  },
+  {
+    "name": "Azhar hussein Alomary",
+    "team": "الإعلام",
+    "position": "مشرفة الإعلام والتصميم",
+    "photo": "/manus-storage/portrait-15_74de31be.jpg",
+    "photoRatio": 0.88,
+    "photoPosition": "50% 23%"
+  },
+  {
+    "name": "حيدر محمد راضي",
+    "team": "العمليات",
+    "position": "عضو",
+    "photo": "/manus-storage/portrait-16_aba8f9d8.jpg",
+    "photoRatio": 0.82,
+    "photoPosition": "54% 19%"
+  }
+]
