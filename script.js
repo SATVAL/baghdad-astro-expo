@@ -22,7 +22,7 @@ const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character
 
 const backstageGallery = document.querySelector('#backstage-gallery');
 if (backstageGallery) {
-  fetch('/backstage.json')
+  fetch('backstage.json')
     .then((response) => {
       if (!response.ok) throw new Error('تعذّر تحميل معرض الكواليس');
       return response.json();
@@ -56,7 +56,7 @@ const foundersSection = document.querySelector('#founders-section');
 const administrationSection = document.querySelector('#administration-section');
 
 if (volunteerGrid) {
-  fetch('/volunteers.json')
+  fetch('volunteers.json')
     .then((response) => {
       if (!response.ok) throw new Error('تعذّر تحميل بيانات الفريق');
       return response.json();
